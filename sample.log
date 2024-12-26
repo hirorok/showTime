@@ -1,0 +1,30 @@
+>show time
+
+Time............................................. Tue Nov  5 00:03:26 2024
+
+Timezone delta................................... 0:0
+Timezone location................................ (GMT +9:00) Tokyo, Osaka, Sapporo
+
+NTP Servers
+    NTP Version..................................     3
+    NTP Polling Interval.........................     600
+
+     Index     NTP Key Index                  NTP Server                Status          NTP Msg Auth Status
+    -------  ---------------------------------------------------------------------
+       1              0                                10.44.48.251     In Sync              AUTH DISABLED
+
+
+>show client summary
+
+Number of Clients................................ 46
+
+Number of PMIPV6 Clients......................... 0
+
+Number of EoGRE Clients.......................... 0
+
+                                                                GLAN/
+                                                                RLAN/
+MAC Address       AP Name                        Slot Status        WLAN  Auth Protocol         Port Wired Tunnel  Role
+----------------- ------------------------------ ---- ------------- ----- ---- ---------------- ---- ----- ------- ----------------
+02:01:b1:fe:7b:84 JINBO-0508-a02                  0   Associated     4    Yes   802.11n(2.4 GHz) 8    No    No      Local
+08:9d:f4:83:16:d9 JINBO-0805-a03                  1   Associated     3    Yes   802.11ac(5 GHz)  8    No    No      Local
